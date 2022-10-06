@@ -1,0 +1,16 @@
+Tutorial Virtual Environment:
+
+#Create Virtual Environment
+1. Open CMD
+2. Go to your desired location
+3. Type python -m venv "Virtual Environment Name"
+4. Set your directory to "Scripts" folder inside your virtual environment folder
+5. type Activate
+6. Done
+
+
+#Run Virtual Environment from VS Code
+1. Locate your virtual environment
+2. Go to "Scripts" folder
+3. Select "Python.exe" executable file
+4. Done
